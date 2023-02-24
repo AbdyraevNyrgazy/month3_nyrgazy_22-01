@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.card {
+    background-color: #5e7383;
+    border: 3px solid grey;
+}
+.card_img {
+    width: 95px;
+    height: 110px;
+    background-color: #a23939;
+}
